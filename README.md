@@ -10,3 +10,6 @@ and the average distance of points from the fitted plane. `threeD_plot.py` is fo
 * numpy
 * matplotlib
 
+### Get started
+Update the path of point data file in `plane_fitting.py` or `threeD_plot.py` and run it. 
+*If you want an interactive 3D plot, run `threeD_plot.py` from terminal.*
